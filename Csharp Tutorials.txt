@@ -1,0 +1,6 @@
+C# tutorials:
+https://www.tutorialsteacher.com/csharp/csharp-tutorials
+
+List Class:
+-Add Custom Class Objects in List
+-LINQ Query on List
